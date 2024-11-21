@@ -14,12 +14,20 @@ Example input: ./cells grid.txt 8 8 3 4 4
 9
 
 0 0 0 1 1 1 0 0
+
 0 0 0 1 1 1 0 0
+
 0 0 0 1 1 1 0 0
+
 1 1 1 0 0 0 0 0
+
 1 1 1 0 0 0 0 0
+
 0 0 0 1 1 1 0 0
+
 1 1 0 1 1 1 0 0
+
 1 1 0 1 1 1 0 0
+
 
 The matrix would be inputted as a file instead of through the terminal.

@@ -31,3 +31,5 @@ Example input: ./cells grid.txt 8 8 3 4 4
 
 
 The matrix would be inputted as a file instead of through the terminal.
+This code was part of a homework assignment for the Data Structures and Abstractions available at my school
+
